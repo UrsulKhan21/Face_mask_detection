@@ -4,3 +4,4 @@ __pycache__/
 env/
 .DS_Store
 models/*.h5
+!models/face_mask_model.h5
